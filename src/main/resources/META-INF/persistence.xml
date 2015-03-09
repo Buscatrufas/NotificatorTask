@@ -8,6 +8,7 @@
     <class>es.ujaen.dae.socialnetworkmaven.entities.RequestFriend</class>
     <class>es.ujaen.dae.socialnetworkmaven.entities.Users</class>
     <class>es.ujaen.dae.socialnetworkmaven.entities.Comment</class>
+    <class>.es.ujaen.dae.socialnetworkmaven.entities.Task</class>
     <properties>
       <property name="hibernate.hbm2ddl.auto" value="create-drop"/>
       <property name="hibernate.show_sql" value="true"/>
